@@ -1,4 +1,3 @@
-
 1. **Passing Arguments to a Function**:
 
     ```python
